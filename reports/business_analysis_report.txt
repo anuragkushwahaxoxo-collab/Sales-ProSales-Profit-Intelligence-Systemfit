@@ -1,0 +1,51 @@
+
+SALES & PROFIT INTELLIGENCE SYSTEM
+==================================
+
+1. OVERALL SUMMARY
+
+Total Orders/Records: 10
+Total Sales: 18050
+Total Profit: 2410
+Profit Margin: 13.35%
+
+2. REGION-WISE PERFORMANCE
+
+        Total_Sales  Total_Profit
+Region                           
+West           6500           850
+East           5300           590
+South          4000           570
+North          2250           400
+
+3. CATEGORY-WISE PERFORMANCE
+
+            Total_Sales  Total_Profit
+Category                             
+Furniture         11700          1280
+Technology         5400           880
+Office              950           250
+
+4. TOP 5 PRODUCTS BY PROFIT
+
+         Total_Sales  Total_Profit
+Product                           
+Monitor         4000           600
+Sofa            5000           500
+Desk            3000           350
+Table           2500           250
+Chair           1200           180
+
+5. HIGH-DISCOUNT REVIEW (15% OR MORE)
+
+Number of Orders: 2
+Sales from These Orders: 7500
+Profit from These Orders: 750
+
+6. BUSINESS NOTE
+
+High-discount orders should be reviewed alongside product
+costs and expected margins. A high discount alone does not
+prove that a business has lost profit.
+
+This report was generated using the available project dataset.
